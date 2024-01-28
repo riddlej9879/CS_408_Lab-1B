@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab_1B-Rock-Paper-Scissors</string>
+    <string name="welcomeTxt">Welcome to Rock-Paper-Scissors!</string>
+    <string name="chooseTxt">Please choose your weapon.</string>
+    <string name="rockBtnTxt">Rock</string>
+    <string name="paperBtnTxt">Paper</string>
+    <string name="scissorBtnTxt">Scissors</string>
+    <string name="scoreTxt">Player score: %1$s, Computer score: %2$s</string>
+    <string name="playerWeaponTxt">Player Weapon: </string>
+    <string name="computerWeaponTxt">Computer weapon: </string>
+    <string name="winnerTxt">---</string>
+</resources>
